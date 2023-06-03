@@ -1,10 +1,13 @@
 # ninja log v5
 8	304	1685824327685939480	CMakeFiles/untitled.dir/quick.cpp.o	1deb4c130122dff9
-0	63	1685824457676821578	build.ninja	e2698cb2ef582f4b
 8	367	1685820978818317878	CMakeFiles/untitled.dir/merge.cpp.o	f7b1c0505bc9c151
 0	30	1685798990457893255	CMakeFiles/untitled.dir/stack.cpp.o	6246ee9d5c4abf0a
 367	413	1685820978865776266	untitled	e604b7f02c77e684
+0	57	1685824761525686737	build.ninja	e2698cb2ef582f4b
 8	307	1685799103537122810	CMakeFiles/untitled.dir/main.cpp.o	50662806fa2bc588
-0	57	1685824457676821578	build.ninja	e2698cb2ef582f4b
 0	302	1685824457984944859	CMakeFiles/untitled.dir/quick/quick.cpp.o	d04467449adad3a2
 0	303	1685824457986476136	CMakeFiles/untitled.dir/merge/merge.cpp.o	2afac0ba0a88bd3c
+7	340	1685825496290051815	CMakeFiles/untitled.dir/radix/radix.cpp.o	f0c545322f92b5c7
+8	301	1685825525156732626	CMakeFiles/untitled.dir/radix/radix.cpp.o	f0c545322f92b5c7
+8	302	1685825565440044363	CMakeFiles/untitled.dir/quick/quick.cpp.o	d04467449adad3a2
+8	303	1685825565441189683	CMakeFiles/untitled.dir/merge/merge.cpp.o	2afac0ba0a88bd3c
