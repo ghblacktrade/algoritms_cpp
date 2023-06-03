@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled merge.cpp stack.h)
+add_executable(untitled merge/merge.cpp stack.h quick/quick.cpp)
