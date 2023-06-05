@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled merge/merge.cpp stack.h quick/quick.cpp radix/radix.cpp)
+add_executable(untitled merge/merge.cpp stack.h quick/quick.cpp radix/radix.cpp binary_exponentiation/binary_exponentiation.cpp)
