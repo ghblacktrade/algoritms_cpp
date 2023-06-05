@@ -1,10 +1,10 @@
 # ninja log v5
 8	304	1685824327685939480	CMakeFiles/untitled.dir/quick.cpp.o	1deb4c130122dff9
-8	367	1685820978818317878	CMakeFiles/untitled.dir/merge.cpp.o	f7b1c0505bc9c151
-9	505	1685963577327680636	CMakeFiles/untitled.dir/binary_exponentiation/binary_exponentiation.cpp.o	818031ad2137fe4d
 0	30	1685798990457893255	CMakeFiles/untitled.dir/stack.cpp.o	6246ee9d5c4abf0a
 367	413	1685820978865776266	untitled	e604b7f02c77e684
-0	57	1685965042584704900	build.ninja	e2698cb2ef582f4b
+9	505	1685963577327680636	CMakeFiles/untitled.dir/binary_exponentiation/binary_exponentiation.cpp.o	818031ad2137fe4d
+8	367	1685820978818317878	CMakeFiles/untitled.dir/merge.cpp.o	f7b1c0505bc9c151
+0	57	1685966804348851199	build.ninja	e2698cb2ef582f4b
 8	516	1685963577338722629	CMakeFiles/untitled.dir/quick/quick.cpp.o	d04467449adad3a2
 8	517	1685963577339771133	CMakeFiles/untitled.dir/merge/merge.cpp.o	2afac0ba0a88bd3c
 8	519	1685963577342668684	CMakeFiles/untitled.dir/radix/radix.cpp.o	f0c545322f92b5c7

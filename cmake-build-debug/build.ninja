@@ -79,6 +79,12 @@ build CMakeFiles/untitled.dir/binary_search/binary_search.cpp.o: CXX_COMPILER__u
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir/binary_search
 
+build CMakeFiles/untitled.dir/eluclidean_gcd/euclidean_scd.cpp.o: CXX_COMPILER__untitled_Debug /Users/gh/CLionProjects/untitled/eluclidean_gcd/euclidean_scd.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles/untitled.dir/eluclidean_gcd/euclidean_scd.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles/untitled.dir/eluclidean_gcd
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -87,7 +93,7 @@ build CMakeFiles/untitled.dir/binary_search/binary_search.cpp.o: CXX_COMPILER__u
 #############################################
 # Link the executable untitled
 
-build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/merge/merge.cpp.o CMakeFiles/untitled.dir/quick/quick.cpp.o CMakeFiles/untitled.dir/radix/radix.cpp.o CMakeFiles/untitled.dir/binary_exponentiation/binary_exponentiation.cpp.o CMakeFiles/untitled.dir/binary_search/binary_search.cpp.o
+build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/merge/merge.cpp.o CMakeFiles/untitled.dir/quick/quick.cpp.o CMakeFiles/untitled.dir/radix/radix.cpp.o CMakeFiles/untitled.dir/binary_exponentiation/binary_exponentiation.cpp.o CMakeFiles/untitled.dir/binary_search/binary_search.cpp.o CMakeFiles/untitled.dir/eluclidean_gcd/euclidean_scd.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0
   OBJECT_DIR = CMakeFiles/untitled.dir
   POST_BUILD = :
